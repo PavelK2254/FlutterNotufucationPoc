@@ -1,7 +1,6 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/Development/AndroidStudioProjects/push_notification_poc/lib/ui/message_handler.dart';
+import 'package:pushnotificationpoc/ui/message_handler.dart';
+
 
 
 
