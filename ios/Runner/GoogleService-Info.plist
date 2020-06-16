@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>870696286154-tko2705o9idg6c0ide5jkgsdqdcn9d9h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.870696286154-tko2705o9idg6c0ide5jkgsdqdcn9d9h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJ3rnSmNzwYehy_PjBDKrSOM11ra7U_tg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>870696286154</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pavelkoifman.co.pushnotificationpoc</string>
+	<key>PROJECT_ID</key>
+	<string>omega-maf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>omega-maf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:870696286154:ios:43e6d65e896ca008084133</string>
+	<key>DATABASE_URL</key>
+	<string>https://omega-maf.firebaseio.com</string>
+</dict>
+</plist>
